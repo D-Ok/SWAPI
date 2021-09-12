@@ -1,0 +1,29 @@
+
+
+.modal-content{
+    background-color: white;
+    padding: 2rem;
+    border: 1px solid #888;
+    display: flex;
+    border-radius: 0.25rem;
+    flex-direction: column;
+    min-width: 25rem;
+}
+
+.close-button{
+    background: transparent;
+    border: none;
+    color: #888888;
+    display: flex;
+    justify-content: end;
+
+}
+
+.close-button:hover {
+    color: black;
+}
+
+.close-button:focus {
+    outline: none;
+    color: black;
+}

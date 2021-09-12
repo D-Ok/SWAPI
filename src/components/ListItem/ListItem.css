@@ -1,0 +1,12 @@
+.list-element{
+    margin: 0.5rem 1rem;
+    padding: 1rem;
+    border: #184EC2 solid 2px;
+    border-radius: 0.25rem;
+    font-size: 18px;
+}
+
+.list-element.light{
+    border-color: #F3EFF2;
+
+}
