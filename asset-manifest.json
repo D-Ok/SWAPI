@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SWAPI/static/css/main.31a189da.chunk.css",
+    "main.js": "/SWAPI/static/js/main.86dd0145.chunk.js",
+    "main.js.map": "/SWAPI/static/js/main.86dd0145.chunk.js.map",
+    "runtime-main.js": "/SWAPI/static/js/runtime-main.797f4698.js",
+    "runtime-main.js.map": "/SWAPI/static/js/runtime-main.797f4698.js.map",
+    "static/js/2.a082ff18.chunk.js": "/SWAPI/static/js/2.a082ff18.chunk.js",
+    "static/js/2.a082ff18.chunk.js.map": "/SWAPI/static/js/2.a082ff18.chunk.js.map",
+    "index.html": "/SWAPI/index.html",
+    "static/css/main.31a189da.chunk.css.map": "/SWAPI/static/css/main.31a189da.chunk.css.map",
+    "static/js/2.a082ff18.chunk.js.LICENSE.txt": "/SWAPI/static/js/2.a082ff18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.797f4698.js",
+    "static/js/2.a082ff18.chunk.js",
+    "static/css/main.31a189da.chunk.css",
+    "static/js/main.86dd0145.chunk.js"
+  ]
+}
